@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>annuler.jpg</file>
+        <file>banque.png</file>
+        <file>depenses.jpg</file>
+        <file>depensesaff.jpg</file>
+        <file>devis.jpg</file>
+        <file>download.jpg</file>
+        <file>e.png</file>
+        <file>mail.png</file>
+        <file>telecharger.jpg</file>
+        <file>traitement.jpg</file>
+    </qresource>
+</RCC>
